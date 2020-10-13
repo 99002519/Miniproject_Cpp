@@ -56,3 +56,5 @@
 * Unit Testing	
     - Assertions
 	- Test Fixtures
+
+![C/C++ CI](https://github.com/99002519/Miniproject_Cpp/workflows/C/C++%20CI/badge.svg?branch=main)
