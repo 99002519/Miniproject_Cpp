@@ -25,7 +25,7 @@ ASSERT_EQ(5000,p1.getBillAmount());
 
 p1.display();
 }
-
+//Test case for Charges has been added
 TEST(PatientBill,Charges){
 PatientBill b1("Mr.Abc3","9900262314","0004","28/01/2018",0);
 b1.charge(5000); // treatmentCharge
