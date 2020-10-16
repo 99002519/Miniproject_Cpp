@@ -1,5 +1,6 @@
 ![C/C++ CI](https://github.com/99002519/Miniproject_Cpp/workflows/C/C++%20CI/badge.svg?branch=main)
 ![cppcheck-action](https://github.com/99002519/Miniproject_Cpp/workflows/cppcheck-action/badge.svg?branch=main)
+![Unit Testing](https://github.com/99002519/Miniproject_Cpp/workflows/Unit%20Testing/badge.svg)
 
 
 # Design Model
