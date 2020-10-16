@@ -5,6 +5,8 @@
 
 # Design Model
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/11b277d4d9794eb5bb90af937229b16b)](https://app.codacy.com/gh/99002519/Miniproject_Cpp?utm_source=github.com&utm_medium=referral&utm_content=99002519/Miniproject_Cpp&utm_campaign=Badge_Grade)
+
 * Base Class - Patient 
     * Data Memebers of Personal Details
     * Getters
