@@ -21,4 +21,4 @@ jobs:
     - name: make
       run: make 
     - name: unit testing
-      run: ./Tests
+      run: ./out
