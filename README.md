@@ -10,7 +10,7 @@ Different information like getting patient details, adding patient by ID or name
 
 # Design Model
 * Base Class - Patient 
-    * Data Memebers of Personal Details
+    * Data Members of Personal Details
     * Getters
  
     Bill
