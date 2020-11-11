@@ -14,12 +14,12 @@ Different information like getting patient details, adding patient by ID or name
     * Getters
  
     Bill
-    *Date
-    *Bill Number
-    *Charges
-        -Treatment charges
-        -Bed Charges
-        -Misc 
+    * Date
+    * Bill Number
+    * Charges
+        - Treatment charges
+        - Bed Charges
+        - Misc 
 
 * Billing System based on Database using STL
 
