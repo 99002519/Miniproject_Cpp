@@ -8,13 +8,12 @@
 The project is about Hospital Management System in which the receptionist can directly enter or delete required information about the patient rather than making a note of it in the book. 
 Different information like getting patient details, adding patient by ID or name, Discharging or removing the patient and billing details of the respective patient by ID or bill number.
 
-# Design Model
+# Design
 * Base Class - Patient 
     * Data Members of Personal Details
     * Getters
  
     Bill
-    * Date
     * Bill Number
     * Charges
         - Treatment charges
