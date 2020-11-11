@@ -9,59 +9,22 @@ The project is about Hospital Management System in which the receptionist can di
 Different information like getting patient details, adding patient by ID or name, Discharging or removing the patient and billing details of the respective patient by ID or bill number.
 
 # Design Model
-* Base Class - Patient 
-    * Data Memebers of Personal Details
-    * Getters
+*Base Class - Patient 
+    *Data Memebers of Personal Details
+    *Getters
  
     Bill
-    * Date
-    * Bill Number
-    * Charges
-        - Treatment charges
-        - Bed Charges
-        - Misc 
+    *Date
+    *Bill Number
+    *Charges
+        -Treatment charges
+        -Bed Charges
+        -Misc 
 
-* Billing System based on Database using STL
+*Billing System based on Database using STL
 
-
-The project is about Hospital Management System in which the receptionist can directly enter or delete required information about the patient rather than making a note of it in the book. 
-Different information like getting patient details, adding patient by ID or name, Discharging or removing the patient and billing details of the respective patient by ID or bill number.# Wishlist
-* Operator Overloading
-* Templates
-* GitSetup
-* Code Analysis
-
-
-
-# Checklist
-
-## Cpp
-* No.of classes 	d
-    - Domain classes 
-	- Utility Classes 
-	
-* Class Relationships	
-    - Is-a
-	- Has-a/part-of
-	- using
-	
-* Language Features	
-    - Virtual Functions
-	- Dynamic Binding
-	- Operator Overloading
-	- Templates
-	- File Handling   
-	- Namespace
-	- STL Containers
-	- Iterators
-	- Algorithms
-	- Function Objects
-	
-* Code Quality	
-    - Code Style
-	- Static Analysis
-	- Heap Analysis
-	
-* Unit Testing	
-    - Assertions
-	- Test Fixtures
+# Wishlist
+*Operator Overloading
+*Templates
+*GitSetup
+*Code Analysis
